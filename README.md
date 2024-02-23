@@ -1,5 +1,6 @@
 # Condition Maker WordPress Plugin
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Donate-Buy%20Me%20a%20Coffee-orange.svg)](https://www.buymeacoffee.com/hariskha)
 ![Condition Maker Logo](https://hariskhandurrani.com/images/haris.jpeg)
 
 Condition Maker is a WordPress plugin that enables you to create conditional logic using shortcodes. With this plugin, you can easily define conditions based on attribute values and comparison operators to control the display of content on your WordPress site.
